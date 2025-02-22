@@ -1,4 +1,4 @@
-A random maze generator and solver using AI algorithms.
+# A random maze generator and solver using AI algorithms.
 This it to help people understand how AI algorithms work in an interactive and fun way.
 
 It contains multiple AI Search Algorithms:
@@ -13,10 +13,11 @@ Choose from eight different search methods to solve the maze:
 7)Jump Point Search (JPS)
 8)Fringe Search
 
-Prerequisite
+
+## Prerequisite
 Python
 
-How to run
+## How to run
 while in the file directory run the file using 
 "python maze.py".
 
